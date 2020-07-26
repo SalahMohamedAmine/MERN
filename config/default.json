@@ -1,4 +1,6 @@
 {
     "defaultUri":"mongodb+srv://amine:ham1234ma@cluster0.pm63z.mongodb.net/MERN?retryWrites=true&w=majority",
-    "jwtSecret" : "mySecretToken"
+    "jwtSecret" : "mySecretToken",
+    "githubClientId":"209bf089e9cb3b8423cd",
+    "githubClientSecret":"126c228909577a0d89ba527c544482ecb029c065"
 }
