@@ -1,0 +1,4 @@
+{
+    "defaultUri":"mongodb+srv://amine:ham1234ma@cluster0.pm63z.mongodb.net/MERN?retryWrites=true&w=majority",
+    "jwtSecret" : "mySecretToken"
+}
