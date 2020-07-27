@@ -7,7 +7,6 @@ const config = require("config");
 const auth = require('../../middleware/auth');
 const Profile = require('../../models/Profile');
 const User = require('../../models/User');
-const { remove } = require('../../models/Profile');
 // @route GET api/profile/me
 // @desc Get User users profile
 // @access Private
